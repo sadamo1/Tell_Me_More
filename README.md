@@ -1,8 +1,7 @@
 # Tell_Me_More
 Python reusable code to run basic analyses on a dataframe
 
-
-This code is usefule for data cleaning and analysis.
+This code is usefule for data cleaning and analysis.  
 
 The code can take a pandas dataframe and then provides commonly utilized commands like .head or .columns.
 This allows a user to quickly analyze a dataset without continually adding code.
